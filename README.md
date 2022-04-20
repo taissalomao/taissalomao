@@ -1,6 +1,6 @@
 ### Hi there! I'm Taís! 👋
 
-- 🧑‍🎓 I’m currently studing on Fatec - SJCampos
+- 🧑‍🎓 I’m currently studing Multiplataform Development Software at Fatec - SJCampos
 - 📫 How to reach me: tais.salomao@fatec.sp.gov.br
 - 😄 Pronouns: she/her
 
