@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- 
+ ![Snake animation](https://github.com/taissalomao/taissalomao/blob/output/github-contribution-grid-snake.svg)
   <p> </p>
   <div> 
-![Snakeanimation](https://github.com/taissalomao/taissalomao/output/github-contribution-grid-snake.svg)
+
 </div>
